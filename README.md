@@ -1,2 +1,1 @@
-# sources
-A repository for sources and resources
+# Sources and resources
