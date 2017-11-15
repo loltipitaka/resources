@@ -1,0 +1,498 @@
+[
+  {
+    "level": "pitaka",
+    "title": "Vinayapiṭaka (V)"
+  },
+  {
+    "id": "1V",
+    "level": "division",
+    "title": "Pārājikapāḷi"
+  },
+  {
+    "id": "2V",
+    "level": "division",
+    "title": "Pācittiyapāḷi"
+  },
+  {
+    "id": "3V",
+    "level": "division",
+    "title": "Mahāvaggapāḷi"
+  },
+  {
+    "id": "4V",
+    "level": "division",
+    "title": "Cūḷavaggapāḷi"
+  },
+  {
+    "id": "5V",
+    "level": "division",
+    "title": "Parivārapāḷi"
+  },
+  {
+    "level": "pitaka",
+    "title": "Suttantapiṭaka (Sutta)"
+  },
+  {
+    "level": "division",
+    "title": "Dīghanikāya (D)"
+  },
+  {
+    "id": "6D",
+    "level": "subdivision",
+    "title": "Sīlakkhandhavaggapāḷi"
+  },
+  {
+    "id": "7D",
+    "level": "subdivision",
+    "title": "Mahāvaggapāḷi"
+  },
+  {
+    "id": "8D",
+    "level": "subdivision",
+    "title": "Pāthikavaggapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Majjhimanikāya (M)"
+  },
+  {
+    "id": "9M",
+    "level": "subdivision",
+    "title": "Mūlapaṇṇāsapāḷi"
+  },
+  {
+    "id": "10M",
+    "level": "subdivision",
+    "title": "Majjhimapaṇṇāsapāḷi"
+  },
+  {
+    "id": "11M",
+    "level": "subdivision",
+    "title": "Uparipaṇṇāsapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Saṃyuttanikāya (S)"
+  },
+  {
+    "id": "12S1",
+    "level": "subdivision",
+    "title": "Sagāthāvaggasaṃyuttapāḷi"
+  },
+  {
+    "id": "12S2",
+    "level": "subdivision",
+    "title": "Nidānavaggasaṃyuttapāḷi"
+  },
+  {
+    "id": "13S3",
+    "level": "subdivision",
+    "title": "Khandhavaggasaṃyuttapāḷi"
+  },
+  {
+    "id": "13S4",
+    "level": "subdivision",
+    "title": "Saḷāyatanavaggasaṃyuttapāḷi"
+  },
+  {
+    "id": "14S5",
+    "level": "subdivision",
+    "title": "Mahāvaggasaṃyuttapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Aṅguttaranikāya (A)"
+  },
+  {
+    "id": "15A1",
+    "level": "subdivision",
+    "title": "Ekakanipātapāḷi"
+  },
+  {
+    "id": "15A2",
+    "level": "subdivision",
+    "title": "Dukanipātapāḷi"
+  },
+  {
+    "id": "15A3",
+    "level": "subdivision",
+    "title": "Tikanipātapāḷi"
+  },
+  {
+    "id": "15A4",
+    "level": "subdivision",
+    "title": "Catukkanipātapāḷi"
+  },
+  {
+    "id": "16A5",
+    "level": "subdivision",
+    "title": "Pañcakanipātapāḷi"
+  },
+  {
+    "id": "16A6",
+    "level": "subdivision",
+    "title": "Chakkanipātapāḷi"
+  },
+  {
+    "id": "16A7",
+    "level": "subdivision",
+    "title": "Sattakanipātapāḷi"
+  },
+  {
+    "id": "17A8",
+    "level": "subdivision",
+    "title": "Aṭṭhakanipātapāḷi"
+  },
+  {
+    "id": "17A9",
+    "level": "subdivision",
+    "title": "Navakanipātapāḷi"
+  },
+  {
+    "id": "17A10",
+    "level": "subdivision",
+    "title": "Dasakanipātapāḷi"
+  },
+  {
+    "id": "17A11",
+    "level": "subdivision",
+    "title": "Ekādasakanipātapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Khuddakanikāya (Khu)"
+  },
+  {
+    "id": "18Kh",
+    "level": "subdivision",
+    "title": "Khuddakapāṭhapāḷi"
+  },
+  {
+    "id": "18Dh",
+    "level": "subdivision",
+    "title": "Dhammapadapāḷi"
+  },
+  {
+    "id": "18Ud",
+    "level": "subdivision",
+    "title": "Udānapāḷi"
+  },
+  {
+    "id": "18It",
+    "level": "subdivision",
+    "title": "Itivuttakapāḷi"
+  },
+  {
+    "id": "18Sn",
+    "level": "subdivision",
+    "title": "Suttanipātapāḷi"
+  },
+  {
+    "id": "19Vv",
+    "level": "subdivision",
+    "title": "Vimānavatthupāḷi"
+  },
+  {
+    "id": "19Pv",
+    "level": "subdivision",
+    "title": "Petavatthupāḷi"
+  },
+  {
+    "id": "19Th1",
+    "level": "subdivision",
+    "title": "Theragāthāpāḷi"
+  },
+  {
+    "id": "19Th2",
+    "level": "subdivision",
+    "title": "Therīgāthāpāḷi"
+  },
+  {
+    "id": "20Ap1",
+    "level": "subdivision",
+    "title": "Therāpadānapāḷi"
+  },
+  {
+    "id": "20Ap2",
+    "level": "subdivision",
+    "title": "Therīapadānapāḷi"
+  },
+  {
+    "id": "21Bu",
+    "level": "subdivision",
+    "title": "Buddhavaṃsapāḷi"
+  },
+  {
+    "id": "21Cp",
+    "level": "subdivision",
+    "title": "Cariyāpiṭakapāḷi"
+  },
+  {
+    "id": "22J",
+    "level": "subdivision",
+    "title": "Jātakapāḷi"
+  },
+  {
+    "id": "23J",
+    "level": "subdivision",
+    "title": "Jātakapāḷi"
+  },
+  {
+    "id": "24Mn",
+    "level": "subdivision",
+    "title": "Mahāniddesapāḷi"
+  },
+  {
+    "id": "25Cn",
+    "level": "subdivision",
+    "title": "Cūḷaniddesapāḷi"
+  },
+  {
+    "id": "26Ps",
+    "level": "subdivision",
+    "title": "Paṭisambhidāmaggapāḷi"
+  },
+  {
+    "id": "27Ne",
+    "level": "subdivision",
+    "title": "Nettipāḷi"
+  },
+  {
+    "id": "27Pe",
+    "level": "subdivision",
+    "title": "Peṭakopadesapāḷi"
+  },
+  {
+    "id": "28Mi",
+    "level": "subdivision",
+    "title": "Milindapañhapāḷi"
+  },
+  {
+    "level": "pitaka",
+    "title": "Abhidhammapiṭaka (Abhi)"
+  },
+  {
+    "id": "29Dhs",
+    "level": "subdivision",
+    "title": "Dhammasaṅgaṇīpāḷi"
+  },
+  {
+    "id": "30Vbh",
+    "level": "subdivision",
+    "title": "Vibhaṅgapāḷi"
+  },
+  {
+    "id": "31Dht",
+    "level": "subdivision",
+    "title": "Dhātukathāpāḷi"
+  },
+  {
+    "id": "31Pu",
+    "level": "subdivision",
+    "title": "Puggalapaññattipāḷi"
+  },
+  {
+    "id": "32Kv",
+    "level": "subdivision",
+    "title": "Kathāvatthupāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Yamaka (Y)"
+  },
+  {
+    "id": "33Y1",
+    "level": "subdivision",
+    "title": "Mūlayamakapāḷi"
+  },
+  {
+    "id": "33Y2",
+    "level": "subdivision",
+    "title": "Khandhayamakapāḷi"
+  },
+  {
+    "id": "33Y3",
+    "level": "subdivision",
+    "title": "Āyatanayamakapāḷi"
+  },
+  {
+    "id": "33Y4",
+    "level": "subdivision",
+    "title": "Dhātuyamakapāḷi"
+  },
+  {
+    "id": "33Y5",
+    "level": "subdivision",
+    "title": "Saccayamakapāḷi"
+  },
+  {
+    "id": "34Y6",
+    "level": "subdivision",
+    "title": "Saṅkhārayamakapāḷi"
+  },
+  {
+    "id": "34Y7",
+    "level": "subdivision",
+    "title": "Anusayayamakapāḷi"
+  },
+  {
+    "id": "34Y8",
+    "level": "subdivision",
+    "title": "Cittayamakapāḷi"
+  },
+  {
+    "id": "35Y9",
+    "level": "subdivision",
+    "title": "Dhammayamakapāḷi"
+  },
+  {
+    "id": "35Y10",
+    "level": "subdivision",
+    "title": "Indriyayamakapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Paṭṭhāna (P)"
+  },
+  {
+    "level": "division",
+    "title": "Dhammānuloma"
+  },
+  {
+    "id": "36P1",
+    "level": "subdivision",
+    "title": "Tikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "37P1",
+    "level": "subdivision",
+    "title": "Tikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "38P2",
+    "level": "subdivision",
+    "title": "Dukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "39P3",
+    "level": "subdivision",
+    "title": "Dukatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "39P4",
+    "level": "subdivision",
+    "title": "Tikadukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "39P5",
+    "level": "subdivision",
+    "title": "Tikatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "39P6",
+    "level": "subdivision",
+    "title": "Dukadukapaṭṭhānapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Dhammapaccanīya"
+  },
+  {
+    "id": "40P7",
+    "level": "subdivision",
+    "title": "Tikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P8",
+    "level": "subdivision",
+    "title": "Dukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P9",
+    "level": "subdivision",
+    "title": "Dukatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P10",
+    "level": "subdivision",
+    "title": "Tikadukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P11",
+    "level": "subdivision",
+    "title": "Tikatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P12",
+    "level": "subdivision",
+    "title": "Dukadukapaṭṭhānapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Dhammānulomapaccanīya"
+  },
+  {
+    "id": "40P13",
+    "level": "subdivision",
+    "title": "Tikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P14",
+    "level": "subdivision",
+    "title": "Dukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P15",
+    "level": "subdivision",
+    "title": "Dukatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P16",
+    "level": "subdivision",
+    "title": "Tikadukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P17",
+    "level": "subdivision",
+    "title": "Tikatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P18",
+    "level": "subdivision",
+    "title": "Dukadukapaṭṭhānapāḷi"
+  },
+  {
+    "level": "division",
+    "title": "Dhammapaccanīyānuloma"
+  },
+  {
+    "id": "40P19",
+    "level": "subdivision",
+    "title": "Tikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P20",
+    "level": "subdivision",
+    "title": "Dukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P21",
+    "level": "subdivision",
+    "title": "Dukatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P22",
+    "level": "subdivision",
+    "title": "Tikadukapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P23",
+    "level": "subdivision",
+    "title": "Tikatikapaṭṭhānapāḷi"
+  },
+  {
+    "id": "40P24",
+    "level": "subdivision",
+    "title": "Dukadukapaṭṭhānapāḷi"
+  }
+]
